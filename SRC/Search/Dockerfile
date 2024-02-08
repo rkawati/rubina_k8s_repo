@@ -1,5 +1,5 @@
 # Use the official Ubuntu base imag
-FROM ubuntu:latest
+FROM ubuntu02:latest
 
 # Install Apache HTTP server
 RUN apt-get update && \
